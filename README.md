@@ -3,7 +3,9 @@ Meu nome é Giovanna Polydoro Ferreira de Souza, Eu estudo Ciência da Computaç
 
 ### "A melhor forma de prever o futuro é criá-lo."
 -📍Moro em São Paulo
+
 -👩🏻‍💻 Estudante de Ciência da Computação- Unicsul
+
 -💻Sou criadora de conteúdo de tecnologia e programação para o instagram
 
 <div>
