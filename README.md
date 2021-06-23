@@ -1,5 +1,5 @@
 # Olá!
-Meu nome é Giovanna Polydoro Ferreira de Souza, Eu estudo Ciência da Computação desde 2020 e estou fazer cursos para me tornar uma dev Front-end.👩🏻‍💻
+Meu nome é Giovanna Polydoro Ferreira de Souza, Eu estudo Ciência da Computação desde 2020 e estou fazendo cursos para me tornar uma dev Front-end.👩🏻‍💻
 
 ### "A melhor forma de prever o futuro é criá-lo."
 -📍Moro em São Paulo
