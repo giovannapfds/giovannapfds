@@ -12,12 +12,6 @@ Meu nome é **Giovanna Polydoro Ferreira de Souza**. Sou Cientista da Computaç�
 - 🚀 Desenvolvo projetos de tecnologia, sistemas web e automações.
 - 📱 Sou criadora de conteúdo digital e fundadora da **UpFeed Digital**.
 
-### 📊 Estatísticas do GitHub
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannapfds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapfds&layout=compact&langs_count=16&theme=dracula" />
-</div>
 
 ### 💻 Tecnologias e Ferramentas
 
